@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=HeejinYeom&fontSize=50&animation=twinkling)
 
-<h3 align="center" 👩‍�Tech Stack 👩‍�</h3>
+<h3 align="center" �Tech Stack �</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
